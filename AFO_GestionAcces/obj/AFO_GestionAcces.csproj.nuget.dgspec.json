@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aymer\\Documents\\base_de_la_programmation\\IHM\\AFO_GestionAcces\\AFO_GestionAcces\\AFO_GestionAcces.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aymer\\Documents\\base_de_la_programmation\\IHM\\AFO_GestionAcces\\AFO_GestionAcces\\AFO_GestionAcces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aymer\\Documents\\base_de_la_programmation\\IHM\\AFO_GestionAcces\\AFO_GestionAcces\\AFO_GestionAcces.csproj",
+        "projectName": "AFO_GestionAcces",
+        "projectPath": "C:\\Users\\aymer\\Documents\\base_de_la_programmation\\IHM\\AFO_GestionAcces\\AFO_GestionAcces\\AFO_GestionAcces.csproj",
+        "packagesPath": "C:\\Users\\aymer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aymer\\Documents\\base_de_la_programmation\\IHM\\AFO_GestionAcces\\AFO_GestionAcces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aymer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
